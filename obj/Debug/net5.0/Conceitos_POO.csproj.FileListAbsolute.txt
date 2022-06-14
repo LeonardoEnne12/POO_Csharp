@@ -1,0 +1,16 @@
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/bin/Debug/net5.0/Conceitos_POO
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/bin/Debug/net5.0/Conceitos_POO.deps.json
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/bin/Debug/net5.0/Conceitos_POO.runtimeconfig.json
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/bin/Debug/net5.0/Conceitos_POO.runtimeconfig.dev.json
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/bin/Debug/net5.0/Conceitos_POO.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/bin/Debug/net5.0/ref/Conceitos_POO.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/bin/Debug/net5.0/Conceitos_POO.pdb
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/obj/Debug/net5.0/Conceitos_POO.csproj.AssemblyReference.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/obj/Debug/net5.0/Conceitos_POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/obj/Debug/net5.0/Conceitos_POO.AssemblyInfoInputs.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/obj/Debug/net5.0/Conceitos_POO.AssemblyInfo.cs
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/obj/Debug/net5.0/Conceitos_POO.csproj.CoreCompileInputs.cache
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/obj/Debug/net5.0/Conceitos_POO.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/obj/Debug/net5.0/ref/Conceitos_POO.dll
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/obj/Debug/net5.0/Conceitos_POO.pdb
+/home/leoenne/Área de Trabalho/Curso_C#/Conceitos_POO/obj/Debug/net5.0/Conceitos_POO.genruntimeconfig.cache

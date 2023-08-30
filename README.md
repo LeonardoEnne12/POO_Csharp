@@ -1,6 +1,6 @@
 # Object-Oriented Programming with Csharp <h1>
 
-This repository contains projects and codes related to ADO.net and Dapper, two popular technologies for data access in .NET applications.
+Repository dedicated to the study of Object-Oriented Programming in C#.
 
 ### Content: <h3>
 

@@ -14,8 +14,8 @@ This repository contains projects and codes related to ADO.net and Dapper, two p
   * **Lecture.cs:** Class that represents a lecture/class.
   * **Module.cs:** Class that represents a module.
 * **NotificationContext:**
-  **Notifiable.cs:** Base class that provides functionalities for notifications.
-  **Notification.cs:** Class that represents a notification.
+  * **Notifiable.cs:** Base class that provides functionalities for notifications.
+  * **Notification.cs:** Class that represents a notification.
 * **ShareContext:**
   * **Base.cs:** Base class for the sharing context.
 * **SubscriptionContext:**
